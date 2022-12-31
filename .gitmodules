@@ -1,0 +1,3 @@
+[submodule "digital-design-lab"]
+	path = digital-design-lab
+	url = https://github.com/xupsh/digital-design-lab
