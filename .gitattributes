@@ -1,3 +1,6 @@
 # Auto detect text files and perform LF normalization
 * text=auto
 EGo1-開發包v1.62-整理/EGo1_professor/1-五分鐘玩轉EGo1系列視頻教程-v1.4/第三章_5分鐘上手實驗-仿真-內含視頻、工程/5分鐘上手視頻-仿真.mp4 filter=lfs diff=lfs merge=lfs -text
+EGo1-開發包v1.62-整理/EGo1_professor/1-五分鐘玩轉EGo1系列視頻教程-v1.4/第一章_5分鐘上手實驗-HDL流程-內含視頻、工程/Vivado設計流程.mp4 filter=lfs diff=lfs merge=lfs -text
+EGo1-開發包v1.62-整理/EGo1_professor/1-五分鐘玩轉EGo1系列視頻教程-v1.4/第二章_5分鐘上手實驗-搭建你的數字積木-內含視頻、工程/搭建你的數字積木.mp4 filter=lfs diff=lfs merge=lfs -text
+EGo1-開發包v1.62-整理/EGo1_professor/1-五分鐘玩轉EGo1系列視頻教程-v1.4/第三章_5分鐘上手實驗-仿真-內含視頻、工程/flash_led.rar filter=lfs diff=lfs merge=lfs -text
