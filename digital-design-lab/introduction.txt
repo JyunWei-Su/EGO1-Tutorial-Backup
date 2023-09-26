@@ -1,0 +1,49 @@
+Digital Design lab是ilinx联合东南大学推出的《搭建你的数字积木》的配套案例，同时配有视频教程http://v.youku.com/v_show/id_XMjQ5NzE0NjMwMA==.html?spm=a2hzp.8253876.0.0&f=29396521
+案例中前6章为基础的数字逻辑部分
+从第7章开始为模块案例
+第13章开始为综合案例
+FPGA代码是通用的，但是根据板卡的不同，使用需要有不同引脚约束。我们将不同板卡的引脚约束放在文件夹board constraints里，使用章节工程的时候可以删除原有的xdc文件，将对应xdc文件添加进去。
+
+
+Chapter2
+	andDemo
+	fullAdder
+Chapter3
+	and_block_assign
+	conditional
+	conditional statement
+	constant_parameter
+	eq1_always
+	example
+	Loop_Statement
+Chapter4
+	sequential
+	sequential logic
+Chapter5
+	FSM
+Chapter7
+	package_IP
+Chapter8
+	I2C
+	ps2_keyboard
+	SPI
+	uart
+Chapter9
+	DDR2
+	fifo
+	ram
+Chapter10
+	LCD_1602
+	OLED
+Chapter11
+	VGA
+Chapter12
+	Digital_camera
+Chapter13
+	Digital_Clock
+Chapter14
+	RISC
+Chapter15
+	FIR_HLS
+Chapter16
+	Ball_Tracking
